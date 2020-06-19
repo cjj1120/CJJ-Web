@@ -3,6 +3,7 @@ body {
     text-align: center;
 }
 
+/*[target="_blank"] only attributes that has this will change */
 [target="_blank"] {
     color: red;
 }

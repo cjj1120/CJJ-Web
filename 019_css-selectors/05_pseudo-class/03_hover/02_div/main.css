@@ -9,3 +9,5 @@ div:hover {
     background-color: green;
     cursor: pointer;
 }
+
+/*cursor property with the value pointer, the effect is when u move ur mouse to the div block it changes to green*/

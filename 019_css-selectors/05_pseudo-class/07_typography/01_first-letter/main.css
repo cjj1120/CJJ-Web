@@ -8,6 +8,7 @@ p {
     margin: 20px;
 }
 
+/*Note: pseudo element, this has two colons, pseudo class has one colon (:) and pseudo element has two colons(: :)*/
 p::first-letter {
     font-family: cursive;
     font-size: 36px;

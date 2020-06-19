@@ -22,3 +22,9 @@ a:hover {
 a:active {
     color: yellow;
 }
+
+/*the cool thing about psudo class is that when u view it on the site its one color\*/
+/*then when u move ur cursor to the link it changes to second color, */
+/*and when u click on it third color.*/
+
+/*Keynote: pseudo-class must be in the above order, not necessary must have four lines of codes, but the sequence must be correct*/
