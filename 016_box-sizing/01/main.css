@@ -13,6 +13,9 @@ img {
     padding: 20px;
 }
 
+/*box-sizing: border-box, this line of code basically shrink the content
+and fix the width precisely*/
+
 .dogone {
     border: 10px dashed orangered;
 }
