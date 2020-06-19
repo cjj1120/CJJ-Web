@@ -1,12 +1,17 @@
 div {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border: 1px solid red;
-    border-radius: 10px;
-    background-image: url("../../000_img/pup.jpg");
+    border-radius: 30px;
+    background-image: url("../../009_absolute-urls/img/dog.jpg");
     background-size: cover;
+    /*Note: this code, background-size: cover, basically covers the whole image, make sure the image in within the border*/
     background-repeat: no-repeat;
+    /*When the image is too big, the dogs image will repeart itself within the border to fill the border up, so basically no repeat make sure there is no repetition of image*/
 }
+
+
+/*Note: border radius basically is to make the border round*/
 
 img {
     border: 10px groove orangered;

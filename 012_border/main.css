@@ -5,17 +5,19 @@ div {
 }
 
 img {
-    border: 10px groove orangered;
+    border: 20px groove orangered;
 }
 
 .dogone {
-    border: 10px dashed orangered;
+     border: 20px dashed orangered;
 }
 
 .dogtwo {
-    border: 10px dotted orangered;
+    border: 20px dotted orangered;
 }
 
 .dogthree {
-    border: 10px double orangered;
+    border: 20px double orangered;
 }
+
+/*Keynote: img is the element selector refers to all the images, whereas the class selector (ex: dog one,2, 3) refer to the specific image*/
