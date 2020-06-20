@@ -1,0 +1,17 @@
+* {
+    border: 2px dashed hotpink;
+}
+
+div {
+    height: 200px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 10px groove orange;
+    padding: 10px;
+}
+
+/*Keynote: img was an inline element, so need to change to block level element to make changes (for example make it to display in the center)*/

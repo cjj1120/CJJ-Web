@@ -1,0 +1,11 @@
+p::first-letter {
+    color: darkcyan;
+    font-size: 50px;
+    line-height: .5;
+}
+
+P::first-line{
+    color: darkmagenta;
+}
+
+/*for pseudo class, its not really a class and not mentioned in HTML, using p::first-line. line-height can adjust the gap between the lines !!*/

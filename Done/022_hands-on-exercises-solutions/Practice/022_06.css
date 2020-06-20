@@ -1,0 +1,25 @@
+
+div p{
+    color: cadetblue;
+}
+
+/*select all children of a div!*/
+
+
+div > p {
+    color: navajowhite;
+}
+
+/*imeediate children of a div*/
+
+div ~ p{
+    color: red
+}
+
+/*slect all siblings of a div*/
+
+div + p{
+    color: chocolate;
+}
+
+/*immediate sibling which is only the first sibling of div*/

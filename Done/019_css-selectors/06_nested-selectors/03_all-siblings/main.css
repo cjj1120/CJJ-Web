@@ -1,0 +1,13 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+div ~ p {
+    color: red;
+}
+
+/*keynote: div ~ p , this means any paragraph that is siblings following a div.*/
+/*These p are in the same vertical line of div so they are all siblings
+

@@ -1,0 +1,11 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+div > p {
+    color: red;
+}
+
+/*Key: the code basically means any child that is immediate after a div will be selected*/

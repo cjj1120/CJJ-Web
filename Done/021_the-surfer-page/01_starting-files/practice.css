@@ -1,0 +1,36 @@
+img{
+    border:groove yellow 12px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%
+}
+
+
+
+html{
+    background-color: blue;
+}
+
+body {
+    width:600px;
+    background-color: green;
+    border: solid black 6px;
+    margin: 0 auto
+
+}
+
+header{
+    color: red
+}
+
+
+
+#primary {
+    color: Red
+}
+
+#secondary {
+    color: Green
+}
+
+/*Keynote: for ID selector in CSS just use hashtag"name"*/

@@ -1,0 +1,16 @@
+
+a:link{
+    color: rebeccapurple;
+}
+
+a:visited{
+    color: cyan;
+}
+
+a:hover{
+    color: #308014;
+}
+
+a:active{
+    color:white;
+}

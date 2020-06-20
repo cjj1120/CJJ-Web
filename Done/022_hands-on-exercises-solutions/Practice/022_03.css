@@ -1,0 +1,11 @@
+[href] {
+
+
+}
+
+/*Keynote: CSS selector for a tag attribute*/
+
+[target="_blank"]{
+    color: maroon;
+    border: solid greenyellow 12px;
+}
