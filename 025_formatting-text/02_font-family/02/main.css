@@ -1,4 +1,7 @@
 h1 {
-    font-family: sans-serif;
+    font-family: "bitstream Vera Sans Mono", sans-serif;
     font-size: 128px;
 }
+
+/*Most people dont have the first font, so sans-salif is used as a fallback (backup)*/
+

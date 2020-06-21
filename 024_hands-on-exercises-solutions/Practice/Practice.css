@@ -1,0 +1,32 @@
+.primary {
+    color: teal;
+}
+
+#firstp {
+    color: darkseagreen;
+}
+
+/*Above is an ID selector*/
+
+.secondary {
+    color: yellow;
+}
+
+/*Above is a class selector*/
+
+p {
+    color: #4c2b03;
+    font-size:50px;
+}
+
+/*Above is an element selector*/
+
+[target=_blank] {
+    color: #9d97c9;
+}
+
+/*#above is an attribute selector*/
+
+.third {
+    color: yellow;
+}

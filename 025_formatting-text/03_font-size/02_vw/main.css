@@ -1,4 +1,6 @@
 h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 4vw;
+    font-size: 3vw;
 }
+
+/*VW- viewport width,on any screen there are 100 units of VW, cool thing of VW is that when you change the size of the window, the font size changes*/
