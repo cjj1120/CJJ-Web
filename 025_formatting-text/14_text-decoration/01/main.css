@@ -1,5 +1,5 @@
 html {
-    font-size: 15rem;
+    font-size: 2rem;
 }
 
 p {
@@ -9,3 +9,5 @@ p {
 a {
     text-decoration: none;
 }
+
+/*Text decoration is useful to get rid of the underline of anchor tag*/

@@ -6,6 +6,11 @@ html, body, h1 {
 
 h1 {
     font-size: 30rem;
-    text-shadow: 20px 5px 20px red;
+    text-shadow: 20px 5px 20px #ff0000;
+    /*text-shadow: 10px 5px 50px #ff0000;*/
     text-align: center;
 }
+
+/*text shadow format: X-axis Y-axis Blur Color*/
+
+/*I think X shadow can be used for Dad's company website*/

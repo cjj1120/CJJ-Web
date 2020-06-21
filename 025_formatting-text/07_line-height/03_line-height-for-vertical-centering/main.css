@@ -5,3 +5,5 @@ div {
     text-align: center;
     border: 1px solid black;
 }
+
+/*WHen u set the height and the line-height the same (200px), the text will be in the center vertically.*/
