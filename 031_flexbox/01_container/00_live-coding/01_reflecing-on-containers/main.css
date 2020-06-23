@@ -1,4 +1,4 @@
-div {
+ div {
     width: 50px;
     height: 50px;
     background-color: yellow;
@@ -9,6 +9,7 @@ header {
     display: flex;
     /*flex-direction: row;*/
     /*flex-wrap: nowrap;*/
+    /*These two above are default*/
     justify-content: space-between;
     border: 1px solid red;
 }

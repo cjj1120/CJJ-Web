@@ -1,0 +1,25 @@
+div {
+    display: inline-block;
+    border: solid #00539f 5px;
+    border-radius: 40%;
+    width: 100px;
+    height: 50px;
+}
+
+    .one {
+    background-color: red
+}
+
+    .two {
+    background-color: blue
+}
+
+    .three {
+    background-color: green
+}
+
+    .four {
+    background-color: rebeccapurple;
+}
+
+

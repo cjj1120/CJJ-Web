@@ -6,6 +6,8 @@ body {
     flex-flow: row wrap;
 }
 
+/*Keynote: think of flex flow like the shortcut for above two lines of code*/
+
 /* flex items */
 div {
     /* formatting */
