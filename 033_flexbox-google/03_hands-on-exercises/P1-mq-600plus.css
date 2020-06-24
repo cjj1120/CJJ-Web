@@ -1,0 +1,45 @@
+div{
+    background-color: yellowgreen;
+}
+
+.topone{
+    width:50%;
+    order: 2;
+    background-color: #308014;
+}
+
+.toptwo{
+    width:25%;
+    order: 1;
+    background-color: #804314;
+}
+
+.topthree{
+    width:25%;
+    order: 3;
+    background-color: #804314;
+}
+
+.secondrowone{
+    width:25%;
+    order: 4;
+    background-color: #142280;
+}
+
+.secondrowtwo{
+    width:25%;
+    order: 5;
+    background-color: #142280;
+}
+
+.secondrowthree{
+    width:25%;
+    order: 6;
+    background-color: #142280;
+}
+
+.secondrowfour{
+    width:25%;
+    order: 7;
+    background-color: #142280;
+}

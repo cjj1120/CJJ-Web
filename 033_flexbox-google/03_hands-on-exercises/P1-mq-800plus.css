@@ -1,0 +1,49 @@
+div{
+    background-color: hotpink;
+}
+
+div{
+    background-color: yellowgreen;
+}
+
+.topone{
+    width:100%;
+    order: 1;
+    background-color: #308014;
+}
+
+.toptwo{
+    width:50%;
+    order: 2;
+    background-color: #804314;
+}
+
+.topthree{
+    width:50%;
+    order: 3;
+    background-color: #804314;
+}
+
+.secondrowone{
+    width:50%;
+    order: 4;
+    background-color: #142280;
+}
+
+.secondrowtwo{
+    width:50%;
+    order: 5;
+    background-color: #142280;
+}
+
+.secondrowthree{
+    width:50%;
+    order: 6;
+    background-color: #142280;
+}
+
+.secondrowfour{
+    width:50%;
+    order: 7;
+    background-color: #142280;
+}

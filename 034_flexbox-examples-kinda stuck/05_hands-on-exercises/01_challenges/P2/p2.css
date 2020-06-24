@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+ul {
+
+    display: flex;
+    flex-flow: column nowrap;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*dont know why but i cant use the above two, it will affect the length of bottom bottom and bottom top*/
+}
+
+a {
+    display: block;
+}
+
+
+
+
+
+

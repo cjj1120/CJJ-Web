@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    padding: 1rem;
+}

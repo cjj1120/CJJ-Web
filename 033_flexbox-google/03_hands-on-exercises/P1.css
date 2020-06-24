@@ -1,0 +1,68 @@
+div {
+    /*border: solid blue 1px;*/
+    min-height: 75px;
+    width: 100%;
+    text-align: center;
+    line-height: 125px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+
+/*Below should be under STYLE document (Should crate another CSS file named Style to make things neat*/
+
+.topone{
+
+    background-color: #308014;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+}
+
+.toptwo{
+
+    background-color: #804314;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+
+}
+
+.topthree{
+
+    background-color: #804314;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+
+}
+
+.secondrowone{
+
+    background-color: #142280;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+
+}
+
+.secondrowtwo{
+
+    background-color: #142280;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+
+}
+
+.secondrowthree{
+
+    background-color: #142280;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+
+}
+
+.secondrowfour{
+
+    background-color: #142280;
+    background-image: url("../../Done/009_absolute-urls/puppy.jpg");
+
+}
