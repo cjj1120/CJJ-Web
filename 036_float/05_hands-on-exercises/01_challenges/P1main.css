@@ -1,0 +1,28 @@
+
+div {
+    border: 2px solid brown;
+    width: 80%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+img {
+    margin: 20px;
+    float: left;
+    width: 25%;
+}
+
+#left{
+    float: left;
+}
+
+#right{
+    float: right;
+}
+
+p {
+    float: right;
+    width: 70%;
+
+}
+

@@ -1,0 +1,47 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+
+}
+
+body{
+    /*border: 5px solid black;*/
+    position: relative;
+    max-width: 700px;
+    margin: 0 auto;
+
+}
+/*Keynote: the body size will stretch according to the divs it contains, because it is relative?*/
+#one{
+    border: 2px solid black;
+    height: 500px;
+    margin-left: 25%;
+    /*this means 25% from the left side*/
+    /*to know how much u need to move from the left, you have to know if there is a div on left hand side, how much space it occupies. for*/
+    /*example below div occupies 25% of width, so i set margin-left to 25%*/
+    padding-left: 20px;
+    padding-top: 10px;
+    /*padding is for the words inside the box, so padding left will shift the word to the left so that it doesnt overlaps with the border*/
+}
+
+
+/*This Id= one will change the size of the body*/
+
+
+
+
+
+
+
+#two{
+    border: 2px solid black;
+    padding-top: 10px;
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 25%;
+    height: 500px;
+}
+
+

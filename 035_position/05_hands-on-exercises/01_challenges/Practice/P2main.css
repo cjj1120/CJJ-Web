@@ -1,0 +1,18 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+}
+
+div{
+    border: 4px solid #308014;
+    width: 15%;
+    height: 75px;
+    margin: 0 auto;
+}
+
+
+#two {
+    position: relative;
+    left: 50px;
+    bottom: 15px;
+}

@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*border: 0;*/
+}
+
+
+
+
+footer {
+    background-color: orange;
+    border: 4px solid orange ;
+    position: fixed;
+    bottom: 0vh;
+    height: 15px;
+    width: 100%;
+}
+
