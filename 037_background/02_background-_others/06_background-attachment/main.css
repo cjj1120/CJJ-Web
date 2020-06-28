@@ -17,6 +17,7 @@ html, body, div, h1 {
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
+    /*with background attachment, when you scroll down, the image will fix on the screen (for a better transition to the next page)*/
 }
 
 h1 {

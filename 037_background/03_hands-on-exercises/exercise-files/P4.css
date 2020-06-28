@@ -1,0 +1,25 @@
+
+/*body{*/
+/*    background-image: url("dog.png");*/
+/*    background-repeat: repeat;*/
+/*}*/
+
+/*Above for exercise 3*/
+
+div {
+    border: solid black 15px;
+    background-color: royalblue;
+    background-image: url("dog.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 480px;
+    width: 480px;
+    background-origin: border-box;
+}
+
+p{
+    color: white;
+    padding-left: 5px;
+}
+
+/*Above for exercise 10*/
