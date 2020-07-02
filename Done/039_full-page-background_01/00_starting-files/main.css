@@ -1,0 +1,81 @@
+/*html,body,section,div,h1,h2,h3,button {*/
+/*    border: solid tomato 2px;*/
+/*}*/
+
+/*My WAY:*/
+
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*flex flow- row nowrap is already the default*/
+}
+
+h1,h2,h3,button {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    text-align: center;
+}
+
+
+
+/*Todd's way:*/
+
+/*#idx-atf {*/
+/*    height: 100vh;*/
+/*    display: flex;*/
+/*    !*flex-direction: row;*!*/
+/*    !*flex-wrap: nowrap;*!*/
+/*    !*flex-flow: row nowrap;*!*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    border: 10px solid hotpink;*/
+/*}*/
+
+/*.idx-center {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    !*flex-wrap: nowrap;*!*/
+/*    !*flex-flow: column nowrap;*!*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+
+/*From 4th doc:*/
+
+/*#idx-atf {*/
+/*    !* layout *!*/
+/*    height: 100vh;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    !* background *!*/
+/*    background-color: #5b5b5b;*/
+/*    background-image: url("../img/background-photo.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    !*background-origin: border-box;*!*/
+/*    background-attachment: fixed;*/
+/*    !* formatting *!*/
+/*}*/
+
+/*#idx-atf > div {*/
+/*    height: 14vh;*/
+/*}*/
+
+/*.idx-center-spacebetween {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: space-between;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.idx-center-center {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
