@@ -1,0 +1,44 @@
+html, body, div{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+.atf{
+    height: 100vh;
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: #00539f;
+}
+
+h1{
+    font-size: 4rem;
+
+    margin:10px auto;
+}
+
+h2{
+    font-size: 2rem
+}
+
+Button{
+    padding: 10px 20px;
+
+    background: none;
+    Border: solid turquoise 1px;
+    background-color: #0ebfe9;
+
+    font-size: 1.5rem ;
+    color: lightgrey;
+
+}

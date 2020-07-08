@@ -5,6 +5,11 @@ html, body, div, button {
     box-sizing: border-box;
 }
 
+*{
+    /*debug*/
+    border: solid hotpink 1px;
+}
+
 #atf {
     height: 100vh;
     display: flex;

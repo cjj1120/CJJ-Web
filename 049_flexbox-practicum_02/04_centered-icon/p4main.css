@@ -1,0 +1,35 @@
+
+html, body, div{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*{
+    border: solid hotpink 1px;
+}
+
+#atf{
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button{
+    background-color:white;
+
+    width: 20rem;
+    height: 20rem;
+    border: solid tomato 1px;
+    border-radius: 100%;
+
+}
+
+.icon{
+
+
+}
+

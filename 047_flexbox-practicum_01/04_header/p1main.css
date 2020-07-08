@@ -1,0 +1,62 @@
+html, body, div, button {
+    padding: 0;
+    /*border: 0;*/
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+
+
+    background-color: #535353;
+}
+
+nav {
+    /* layout */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: whitesmoke;
+    background-color: inherit;
+    border:0;
+    padding: 10px 15px;
+
+}
+
+button:hover{
+
+    color: #9dbb88;
+}
+
+#atf {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+
+.icon-big-in{
+    font-size: 20rem;
+
+}
+

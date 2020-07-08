@@ -1,0 +1,49 @@
+html, body, div{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#sidebar{
+    height:100vh;
+    width: fit-content;
+
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+
+    border-right: solid lightgrey 1px;
+
+}
+
+.sidebar-top{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+
+
+    margin-top: 20px;
+}
+
+.sidebar-bot{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-end;
+}
+
+button{
+    border: none;
+    background: none;
+
+    height: 40px;
+    width: 10rem;
+
+    font-size: 1.5rem;
+    color: #0ebfe9;
+}
+
+button:hover{
+    background-color: #cce0e7;
+}

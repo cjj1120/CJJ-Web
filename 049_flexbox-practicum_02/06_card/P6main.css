@@ -1,0 +1,48 @@
+html, body, div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-size: 1vw;
+}
+
+/**{*/
+/*    border: solid hotpink 1px;*/
+/*}*/
+
+
+#atf{
+    height: 100vh;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#card{
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+
+    width: 17%;
+    border: 1px solid rgb(202, 208, 210);
+    border-radius: 4px;
+
+}
+
+h3, #bottom{
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#bottom{
+    background-color: #bcbbbb;
+    width: 100%;
+
+}
